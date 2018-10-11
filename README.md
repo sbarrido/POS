@@ -1,8 +1,8 @@
 Project to create a Point - of - Sale system. 
 
-Goals: 
-[] >= 2 programming languages used
-[] Database (MySQL) 
-[] Client-Server Model
+Goals: <br> 
+[] >= 2 programming languages used<br>
+[] Database (MySQL)<br> 
+[] Client-Server Model<br>
 
 
